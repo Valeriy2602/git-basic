@@ -1,5 +1,10 @@
 p {
-    display: inline-block;
-    color: blue;
+    display: block;
+    color: red;
     font-size: 30px;
+}
+div {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
 }
